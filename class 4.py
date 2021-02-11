@@ -105,3 +105,5 @@ while entry!=-1:
         item_list.append(item_count)
 print("the total item added are", end="")
 print(sum(item_list))
+
+print("end")
